@@ -1,5 +1,5 @@
 **Title**
-Integrative Structural and Functional Analysis of Full-Length Hibernation Promoting Factor Reveals its Role in Antibiotic Susceptibility in _Mycobacterium smegmatis_
+Integrative Structural and Functional Analysis of Full-Length Hibernation Promoting Factor and its Association with Antibiotic Susceptibility in _Mycobacterium smegmatis_
 
 **Organism:**  
 *Mycobacterium smegmatis*
